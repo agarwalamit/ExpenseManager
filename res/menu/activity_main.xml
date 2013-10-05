@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/sort_by_menuitem"
+        android:title="sort by"/>
+    <item
+        android:id="@+id/delete_all"
+        android:title="Delete All Records"/>
+    <item
+        android:id="@+id/createnewaccount"
+        android:showAsAction="always"
+        android:title="NewAccount"/>
+
+</menu>
